@@ -86,7 +86,7 @@ main {
     display: inline-block;
     width: 12rem; 
     height: 12rem; 
-    margin: 2rem; 
+    margin: 1rem; 
     background-color: rgba(255, 255, 255, 0.3);
     border-radius: 50%; 
 
@@ -109,7 +109,7 @@ main {
 }
 
 .weather-main {
-    margin: 1rem 0 5rem 0; 
+    margin: 1rem 0 1rem 0; 
 }
 
 .main {
@@ -120,7 +120,7 @@ main {
     color: #FFF; 
     font-size: 2rem;
     font-weight: 600;
-    margin: 2rem 0; 
+    margin: .2rem 0; 
     text-shadow: 2px 4px rgba(50, 50, 70, 0.7); 
 }
 
