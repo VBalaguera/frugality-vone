@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import WeatherApp from './components/WeatherApp'; 
+import Joke from './components/Joke'
 import './App.css'; 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <h1 className='App-title'>frugality</h1>
       </header>
       <WeatherApp />
+      <Joke />
       <footer className="App-footer">
         
       </footer>
